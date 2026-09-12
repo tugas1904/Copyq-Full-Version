@@ -236,3 +236,6 @@ This repository serves as the official landing page for CopyQ. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of CopyQ today!**
+
+---
+**Last updated:** 2026-09-12 11:26:15 UTC
