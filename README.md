@@ -1,0 +1,1 @@
+# Copyq-Full-Version
