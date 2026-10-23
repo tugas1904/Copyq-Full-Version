@@ -238,4 +238,4 @@ This repository serves as the official landing page for CopyQ. The software is d
 **Get the most recent version of CopyQ today!**
 
 ---
-**Last updated:** 2026-10-22 23:50:38 UTC
+**Last updated:** 2026-10-23 03:07:40 UTC
